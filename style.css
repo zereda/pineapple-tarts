@@ -1,0 +1,37 @@
+#toppart{
+	text-align: center;
+	position:relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 533px;
+	}
+
+
+h1{
+	background-color: rgba(255, 253, 252, 0.51);
+	
+	font-family: Helvetica,;
+	font-style: italic;
+	font-weight:200;
+	position:absolute;
+	
+	top:50%;
+	transform: translateY(-50%);
+	width: 100%;
+	padding: 16px;
+	box-sizing:border-box;
+	
+}
+.background{ background-color: #ffffcc;
+
+}
+main {
+	max-width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.padding {
+
+	padding:10px;
+}
